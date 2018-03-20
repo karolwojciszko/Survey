@@ -1,0 +1,4 @@
+services:
+#    fresh_apps_survey.example:
+#        class: FreshApps\Bundle\SurveyBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

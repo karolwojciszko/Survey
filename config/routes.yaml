@@ -1,0 +1,3 @@
+freshapps_survey_index:
+    path: /
+    defaults: { _controller: 'App\FreshApps\Bundle\SurveyBundle\Controller\DefaultController::indexAction' }

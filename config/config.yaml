@@ -1,0 +1,5 @@
+# app/config/config.yml
+twig:
+    # ...
+    paths:
+        '%kernel.project_dir%/src/FreshApps/SurveyBundle': FreshApps

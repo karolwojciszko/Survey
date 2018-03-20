@@ -1,0 +1,15 @@
+app_fresh_apps_survey:
+    resource: "@AppFreshAppsSurveyBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+fresh_apps_survey:
+    resource: "@FreshAppsSurveyBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+survey:
+    resource: "@SurveyBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
